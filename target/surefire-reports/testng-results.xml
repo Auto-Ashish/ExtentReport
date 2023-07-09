@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="9228" started-at="2023-07-09T12:09:15 IST" finished-at="2023-07-09T12:09:24 IST">
+  <suite name="All Test Suite" duration-ms="7307" started-at="2023-07-09T12:26:27 IST" finished-at="2023-07-09T12:26:35 IST">
     <groups>
     </groups>
-    <test name="D:/ExtentDemo/ReportProject" duration-ms="9228" started-at="2023-07-09T12:09:15 IST" finished-at="2023-07-09T12:09:24 IST">
+    <test name="D:/ExtentDemo/ReportProject" duration-ms="7307" started-at="2023-07-09T12:26:27 IST" finished-at="2023-07-09T12:26:35 IST">
       <class name="utils.ExtendReports.extentReports">
-        <test-method status="PASS" signature="initiateReport()[pri:0, instance:utils.ExtendReports.extentReports@87f383f]" name="initiateReport" is-config="true" duration-ms="98" started-at="2023-07-09T12:09:15 IST" finished-at="2023-07-09T12:09:15 IST">
+        <test-method status="PASS" signature="initiateReport()[pri:0, instance:utils.ExtendReports.extentReports@87f383f]" name="initiateReport" is-config="true" duration-ms="112" started-at="2023-07-09T12:26:27 IST" finished-at="2023-07-09T12:26:27 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initiateReport -->
-        <test-method status="PASS" signature="sampleTest()[pri:0, instance:utils.ExtendReports.extentReports@87f383f]" name="sampleTest" duration-ms="8952" started-at="2023-07-09T12:09:15 IST" finished-at="2023-07-09T12:09:24 IST">
+        <test-method status="PASS" signature="sampleTest()[pri:0, instance:utils.ExtendReports.extentReports@87f383f]" name="sampleTest" duration-ms="7015" started-at="2023-07-09T12:26:27 IST" finished-at="2023-07-09T12:26:34 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sampleTest -->
-        <test-method status="PASS" signature="closeInstance()[pri:0, instance:utils.ExtendReports.extentReports@87f383f]" name="closeInstance" is-config="true" duration-ms="157" started-at="2023-07-09T12:09:24 IST" finished-at="2023-07-09T12:09:24 IST">
+        <test-method status="PASS" signature="closeInstance()[pri:0, instance:utils.ExtendReports.extentReports@87f383f]" name="closeInstance" is-config="true" duration-ms="157" started-at="2023-07-09T12:26:34 IST" finished-at="2023-07-09T12:26:35 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeInstance -->
